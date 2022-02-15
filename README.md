@@ -30,4 +30,4 @@ Reference:
 
 For more details please refer to the paper.
 
-If you have problems about this software, please contact: msc1703141010@iiti.ac.in or mtanveer@iiti.ac.in
+If you have problems about this software, please contact: ee180002022@iiti.ac.in or mtanveer@iiti.ac.in
